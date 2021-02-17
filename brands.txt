@@ -1,4 +1,3 @@
 nokia
 vivo
-oppo
 apple
