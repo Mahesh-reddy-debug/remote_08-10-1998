@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 
-=======
 nokia
 vivo
 oppo
->>>>>>> parent of f617acb (removed oppo content from the file and updated it on repo)
 apple
